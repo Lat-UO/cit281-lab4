@@ -4,11 +4,9 @@ Overview
 
 Lab goals and outcomes:
 
-Practice refactoring JavaScript code to use more modern syntax
-Practice destructuring an object
-Practice converting normal functions into arrow function expressions
-Examine using for..in  syntax with objects
-Practice using for..of syntax with arrays
-Practice creating a Node.js compatible code module using module.exports
-Practice importing a Node.js compatible code module using require
-Examine code using the spread operator
+Part 1: Create initial Fastify Node.js web server
+Part 2: Initialize as a Node.js project folder using Node Package Manager (npm)
+Part 3: Add Fastify to project using npm, and test using Visual Studio Code (VSCode)
+Part 4: Add git repo, exclude node_modules folder from git, make commits
+Part 5: Fix MIME error, test, and commit
+Part 6: Add a second route with query parameters, test, and commit
